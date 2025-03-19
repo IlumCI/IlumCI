@@ -3,7 +3,9 @@
 - 🌱 I’m currently learning Ruby, MSF, InfoSec
 - 💞️ I’m looking to collaborate on Operating systems, Websites, and Multi-lang projects
 - 📫 How to reach me: Discord - Lum_.
-- ⚡ Fun fact: I'm a huge fan of History and IT, and am a Socialist!
+- ⚡ Fun fact: I'm a huge fan of History and IT, and am a Bug Bounty Hunter now!
+- 🪲Bugs squashed: 2!
+
 
 <!---
 IlumCI/IlumCI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
